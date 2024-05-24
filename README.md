@@ -13,6 +13,36 @@
 
 ![PlayZone Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
+<br />
+
+![PlayZone Desktop Demo](./readme-images/img1.png "Desktop Demo")
+
+<br />
+
+![PlayZone Desktop Demo](./readme-images/img2.png "Desktop Demo")
+
+<br />
+
+![PlayZone Desktop Demo](./readme-images/img3.png "Desktop Demo")
+
+<br />
+
+![PlayZone Desktop Demo](./readme-images/img4.png "Desktop Demo")
+
+<br />
+
+![PlayZone Desktop Demo](./readme-images/img5.png "Desktop Demo")
+
+<br />
+
+![PlayZone Desktop Demo](./readme-images/img6.png "Desktop Demo")
+
+<br />
+
+![PlayZone Desktop Demo](./readme-images/img7.png "Desktop Demo")
+
+<br />
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
